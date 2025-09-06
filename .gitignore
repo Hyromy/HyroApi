@@ -1,0 +1,46 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# Django static/media files
+/static/
+/media/
+
+# Environment
+env/
+venv/
+.env
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations
+*/migrations/*.pyc
+*/migrations/__pycache__/
+*/migrations/*.sqlite3
+
+# Logs
+*.log
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
