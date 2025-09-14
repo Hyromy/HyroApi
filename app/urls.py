@@ -1,7 +1,7 @@
 from rest_framework import routers
 
 from app.api import (
-    GuildViewSet
+    GuildViewSet,
 )
 
 router = routers.DefaultRouter()

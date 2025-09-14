@@ -78,4 +78,7 @@ python manage.py runserver (port)
 
 2. Variables de entorno
 
-    Cargar el archivo [.env](#variables-de-entorno) con todas suss claves y valores configuradas
+    Cargar el archivo [.env](#variables-de-entorno) con todas sus claves y valores configuradas
+
+## Licencia
+[Licencia MIT](LICENSE)
